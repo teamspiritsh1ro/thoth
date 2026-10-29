@@ -6,7 +6,7 @@
 
 A Codex skill for finding Chinese and English scholarly literature, verifying sources and access routes, and producing evidence-grounded preliminary readings.
 
-`thoth` 是仓库名称；技能名称保留为“专业文献检索与阅读”，调用名为 `literature-search-reading`。仓库命名沿用项目发起人的神话主题选择。
+`thoth` 是仓库名称；技能名称保留为“专业文献检索与阅读”，调用名为 `literature-search-reading`。
 
 ## 安装到 Codex
 
