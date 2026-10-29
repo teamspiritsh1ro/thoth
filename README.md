@@ -8,9 +8,9 @@ A Codex skill for finding Chinese and English scholarly literature, verifying so
 
 `thoth` 是仓库名称；技能名称保留为“专业文献检索与阅读”，调用名为 `literature-search-reading`。
 
-## 安装到 Codex
+## 安装到 agent
 
-在 Codex 中发送：
+在 agent 中发送：
 
 ```text
 请使用 $skill-installer，安装这个仓库里的技能：
