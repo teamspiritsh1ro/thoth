@@ -1,0 +1,103 @@
+{
+  "created": "2026-10-28",
+  "archive": {
+    "name": "专业文献检索与阅读课件(1).7z",
+    "bytes": 32213154,
+    "sha256": "f40a83606f515b79a6f52191af76f3a091dd1ea889dbeb85051d3539f41c32e7",
+    "provenance": "Locally supplied course-method source; source materials are not distributed with this repository."
+  },
+  "files": [
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\2024-In the frontier zone of market transition_Economic possibilities across the marketnon-market divide.pdf",
+      "sha256": "2c38e5c4c468762c62c190a05e093083fb8035a9e61fd5c505fc7c4165a6c8a2",
+      "bytes": 519057,
+      "pages": 21,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\CSSCI(2025-2026)扩展版来源期刊目录.pdf",
+      "sha256": "29fc58f9fca9e7638b8223f765e8bf42a2ce4089e356c6bbe3479780f73448e2",
+      "bytes": 3141848,
+      "pages": 7,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\CSSCI2025发布稿（正版）.pdf",
+      "sha256": "05a549a1542d44807ea2e019519e536f909b7f296176d5e2d6eb62e96ce78fd4",
+      "bytes": 8108758,
+      "pages": 18,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\Geographical Research - 2026 - Rogers - Editorial  The new hydropolitics of China.pdf",
+      "sha256": "aa2467aaddf89bb4beee5a6b64b308f1acaae7b49cb24b71f2264495bfa457b1",
+      "bytes": 878020,
+      "pages": 6,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\In the frontier zone of market transition文献引言与理论部分结构化阅读.docx",
+      "sha256": "f2499f46d8eb5f052762ba28d67d6dbd1b920918baa2f99c83fbb722c7d126b6",
+      "bytes": 24629,
+      "pages": 1,
+      "page_unit": "text extraction section, not rendered page count"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\lai-2023-financial geography i-the-state finance nexus.pdf",
+      "sha256": "54089054c97162a4154f466b24e96f90bccf2d355e1eafddc36f2a0658fe8aae",
+      "bytes": 589318,
+      "pages": 13,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\lai-2025-financial geography ii-green finance and climate transition.pdf",
+      "sha256": "0575a9265aa55eee128ca5b992a1178ed62b9d0d7db0a700448f998675c927df",
+      "bytes": 579839,
+      "pages": 12,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\lai-2026-financial geography iii-everyday lives of finance.pdf",
+      "sha256": "348fb59538d740ebb27deefb364484a249fc1e531e6dbb6bce4c4cf4b6f3afe3",
+      "bytes": 577606,
+      "pages": 12,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\中国人文地理学自主知识体系框架的建构.pdf",
+      "sha256": "0456388608dc94a55e3b27c68669e3532b0a509870f78ee470a9d8ac4b94cbd3",
+      "bytes": 911796,
+      "pages": 19,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\广大[2025]67号（广州大学关于印发《广州大学人文社会科学中文一类重要期刊目录（2025）》的通知）.pdf",
+      "sha256": "826136efb5b46b20bf5987b4e2c7c587f14dfd9e494b7fcd7d0a4ee0ceaa2c23",
+      "bytes": 526171,
+      "pages": 20,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\其他资料\\社会基础设施对深圳市边缘群体形成与治理转型的影响.pdf",
+      "sha256": "d749b54d93b847551bfa82591185a0182f3c5faa7a2a9617cf50374b3edf5a3d",
+      "bytes": 1685277,
+      "pages": 19,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\课件\\专业文献检索.pdf",
+      "sha256": "6706db5571e3493521cf1c9afc5d1d6dfa75bf1c1914f02fe92582cc97dc5d97",
+      "bytes": 17476699,
+      "pages": 148,
+      "page_unit": "PDF physical pages"
+    },
+    {
+      "file": "专业文献检索与阅读课件\\课件\\专业文献阅读.pdf",
+      "sha256": "c06fe67fc078952d0b02638c5a201e831b350c611c6c5959142e51a8351b20e7",
+      "bytes": 1476569,
+      "pages": 27,
+      "page_unit": "PDF physical pages"
+    }
+  ],
+  "distribution": "Metadata only. Original slides, articles and supporting documents are not included or relicensed."
+}

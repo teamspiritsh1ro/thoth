@@ -1,0 +1,6 @@
+interface:
+  display_name: "专业文献检索与阅读"
+  short_description: "按课件方法实际检索并初读中英文文献，交付真实来源、内容分析和精读建议"
+  default_prompt: "请使用 $literature-search-reading，围绕我的研究主题实际检索相关文献并完成初步阅读，给出可核实的来源链接、逐篇阅读结果及优先精读建议。"
+policy:
+  allow_implicit_invocation: true
