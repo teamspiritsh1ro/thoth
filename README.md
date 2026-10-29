@@ -74,7 +74,7 @@ https://github.com/teamspiritsh1ro/thoth/tree/main/skills/literature-search-read
 
 此前维护做过小规模真实检索、指定论文阅读、摘要限制和方案范围检查，并在发现查询变体落实不足后修正和复测。这些内部运行记录未随仓库发布，不能当作可公开复现的基准成绩。本次开源打包检查文件结构、相对链接和发布范围，没有重新运行完整文献任务。
 
-## English
+## English Explanation
 
 Thoth packages **literature-search-reading**, a Chinese-first Codex skill for actual literature retrieval and preliminary reading. It uses concept decomposition, source-confirmed terminology, within-group expansion, cross-group combinations, iterative searches, and task-appropriate citation tracing.
 
