@@ -59,6 +59,28 @@ https://github.com/teamspiritsh1ro/thoth/tree/main/skills/literature-search-read
 
 详见[手动检索辅助](skills/literature-search-reading/references/manual-search-guide.md)和[课件网站入口](skills/literature-search-reading/references/search-entrypoints.md)。
 
+## 理论基础与已有文献材料
+
+需要解释框架或概念溯源时，技能分别组织“研究问题类”和“理论基础类”文献：后者可以采用不同查询和书籍、章节、原始理论文本，不必包含全部主题关键词。这是同一技能里的按需流程，普通事实查找和指定论文阅读不强制扩展。
+
+```text
+请使用 $literature-search-reading。我的研究问题是：【填写问题】。
+请实际检索并初读直接相关研究，同时按需要追溯理论与概念基础。
+说明每篇的论证作用、核验来源、实际阅读范围和仍待核对的原始文本。
+```
+
+你已经自行检索并导出题录、摘要时，可以直接交给技能接续处理：
+
+```text
+请使用 $literature-search-reading，处理我提供的题录和摘要。
+围绕【研究问题】去重、筛选并做摘要论证短卡，区分直接相关、理论基础和待定材料。
+只处理这些材料，暂不重新检索；报告实际处理数量、依据、阅读范围和缺口。
+```
+
+批量处理分开记录导入、预筛、完整摘要核读和制卡，保留重复及版本依据；低分或缺摘要不自动等于排除。全文已经可得但只读摘要时，获取状态仍为全文可得。复杂综合先对齐概念、对象、口径和证据，再讨论支持、互补与分歧，区分作者结论和综合者假设。
+
+详见[批量筛选](skills/literature-search-reading/references/screening-workflow.md)与[多篇综合](skills/literature-search-reading/references/synthesis-workflow.md)。书籍、筛选审计和比较矩阵按需使用，不要求每次填满全部模板。
+
 ## 它怎样工作
 
 1. **组织概念**：拆分对象、现象、结果和情境，以真实文献校准中英文词语，区分同义、近义及相关概念。

@@ -9,3 +9,5 @@
 MIT许可证仅适用于本项目原创的指令、模板与项目文档。外部作品、第三方名称与服务各自保留其权利；链接和引用不意味着授权、合作或背书。
 
 This repository operationalizes literature-search and reading methods from two course handouts. It includes method summaries, instructions, templates, and source metadata, not copies of the original teaching materials or article full texts. The MIT license covers the project's original material only. External works and services retain their own rights and terms. No endorsement by the course providers or OpenAI is implied.
+
+Maintenance also incorporates user-supplied revision guidance for conditional theory discovery, screening supplied records, and evidence-bounded synthesis. The revision document and private test materials are not distributed or relicensed. These instructions do not imply endorsement by the source contributors.
